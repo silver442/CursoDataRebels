@@ -1,0 +1,6 @@
+2024-06-29 22:25:58.105774: Datos leídos correctamente
+2024-06-29 22:25:58.105774: Procesamiento de datos completado: Total de ventas = 3750
+2024-06-29 22:25:58.121368: Reporte generado y guardado en d:\Cursos\DataRebels\RepositorioRemoto\codigos\Actividades\Actividad_generacion_reporte\reporte_20240629_222558.txt
+2024-06-29 22:26:28.579023: Datos leídos correctamente
+2024-06-29 22:26:28.594614: Procesamiento de datos completado: Total de ventas = 3750
+2024-06-29 22:26:28.610408: Reporte generado y guardado en D:\Cursos\DataRebels\RepositorioRemoto\codigos\Actividades\Actividad_generacion_reporte\reporte_20240629_222628.txt
